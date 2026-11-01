@@ -1,3 +1,6 @@
+Balogun Caleb Inioluwa
+25/17426
+Computer Science 
 # COS 201 – Computer Programming I
 ## Week 3 Assignment
 
